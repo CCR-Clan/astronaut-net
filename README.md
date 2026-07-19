@@ -1,8 +1,6 @@
-# ccrnet
+# astronaut-net
 
-A site I made for CCR Clan to hold clan member rankings, bios, links to their socials, and more.
-
-Features clips from the clan, a robust rank-organizing system, and player profile pages.
+A site I made for the Astronaut discord bot to display important information!
 
 ## Lead Developer
 > [Cattn](https://github.com/Cattn)
