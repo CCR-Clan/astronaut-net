@@ -11,7 +11,7 @@
 		href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Syne:wght@400..800&display=swap"
 		rel="stylesheet"
 	/>
-	<title>Astronaut — Discord protection from the stars</title>
+	<title>Astronaut | Discord protection from the stars</title>
 	<meta
 		name="description"
 		content="Astronaut is a friendly Discord bot that watches your server from the stars to help prevent attacks and threats before they happen."
