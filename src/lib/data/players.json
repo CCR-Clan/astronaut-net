@@ -1,0 +1,298 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "name": "CCR Astra",
+            "role": "Leader",
+            "description": "Who better to run the show?",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Diamond 1",
+                    "peak": "Unreal",
+                    "BR Rank": "Unranked",
+                    "ZB Rank": "Unranked",
+                    "BR Reload Rank": "Diamond 1",
+                    "ZB Reload Rank": "Unranked",
+                    "Ballistic": "Unranked",
+                    "Peak Rank": "Unreal",
+                    "Clan Rank": "#2",
+                    "clankRank": "#2"
+                },
+                {
+                    "game": "Overwatch 2",
+                    "rank": "Diamond 3",
+                    "Tank": "Diamond 2",
+                    "Damage": "Diamond 3",
+                    "Support": "Platinum 1",
+                    "Open Queue": "Diamond 5",
+                    "peak": "Diamond 2",
+                    "Peak Rank": "Diamond 2",
+                    "Clan Rank": "#1",
+                    "clankRank": "#1",
+                    "Device": "Console"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Email",
+                    "link": "mailto:astra@ccrclan.org"
+                },
+                {
+                    "name": "Github",
+                    "link": "https://github.com/CCRAstra"
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "https://www.tiktok.com/@ccrastra"
+                },
+                {
+                    "name": "Spotify",
+                    "link": "https://open.spotify.com/user/21kmliudiu3gu4p6kxdmxtzhy?si=8505a0d6d6854ae6"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/1128944437486170193/597fedaeef1091b733c9f005af10b50b.webp?size=1024"
+        },
+        {
+            "id": 2,
+            "name": "Cattn",
+            "role": "Co-Leader",
+            "description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unreal",
+                    "peak": "Unreal",
+                    "BR Rank": "Unranked",
+                    "ZB Rank": "Unranked",
+                    "BR Reload Rank": "Platinum 1",
+                    "ZB Reload Rank": "Unranked",
+                    "Ballistic": "Gold 1",
+                    "Peak Rank": "Unreal",
+                    "Clan Rank": "#1",
+                    "clankRank": "#1"
+                },
+                {
+                    "game": "Overwatch 2",
+                    "rank": "Unranked",
+                    "Tank": "Unranked",
+                    "Damage": "Unranked",
+                    "Support": "Unranked",
+                    "Open Queue": "Unranked",
+                    "peak": "Unranked",
+                    "Peak Rank": "Unranked",
+                    "Clan Rank": "#2",
+                    "clankRank": "#2",
+                    "Device": "PC"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Email",
+                    "link": "mailto:cattn@ccrclan.org"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/a2ede5d56215b8ad0edd0499f4de3c19.webp"
+        },
+        {
+            "id": 3,
+            "name": "CCR Azrael",
+            "role": "Co-Leader",
+            "description": "CCR Azrael is a rambunctious Co-Leader of CCR, very involved but not too active.",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unranked",
+                    "peak": "Diamond 2",
+                    "BR Rank": "Unranked",
+                    "ZB Rank": "Unranked",
+                    "BR Reload Rank": "Unranked",
+                    "ZB Reload Rank": "Unranked",
+                    "Ballistic": "Unranked",
+                    "Peak Rank": "Diamond 2",
+                    "Clan Rank": "#5",
+                    "clankRank": "#5"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Email",
+                    "link": "mailto:azrael@ccrclan.org"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/Ar9wUxM.png"
+        },
+        {
+            "id": 4,
+            "name": "CCR Cactus",
+            "role": "Admin",
+            "description": "ZB player and CCR's very own prickly plant",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Platinum 3",
+                    "peak": "Champion",
+                    "BR Rank": "Unranked",
+                    "ZB Rank": "Bronze 2",
+                    "BR Reload Rank": "Platinum 3",
+                    "ZB Reload Rank": "Silver 3",
+                    "Ballistic": "Unranked",
+                    "Peak Rank": "Champion",
+                    "Clan Rank": "#3",
+                    "clankRank": "#3"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Email",
+                    "link": "mailto:cactus@ccrclan.org"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/813168384266469426/83894b9fcf9fc933f1b5eebb536ca617.webp?size=1024"
+        },
+        {
+            "id": 5,
+            "name": "CCR Rogue",
+            "role": "Member",
+            "description": "Formerly 'CCR Blade'",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unknown",
+                    "peak": "Platinum 1",
+                    "BR Rank": "Unranked",
+                    "ZB Rank": "Unranked",
+                    "BR Reload Rank": "Bronze 2",
+                    "ZB Reload Rank": "Unranked",
+                    "Ballistic": "Unranked",
+                    "Peak Rank": "Platinum 1",
+                    "Clan Rank": "#6",
+                    "clankRank": "#6"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "No Socials Linked",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/4aMoLy7.png"
+        },
+        {
+            "id": 6,
+            "name": "CCR Bandoe",
+            "role": "Member",
+            "description": "Competitive Call of Duty Player",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unknown",
+                    "peak": "Unknown",
+                    "BR Rank": "Unknown",
+                    "ZB Rank": "Unknown",
+                    "BR Reload Rank": "Unknown",
+                    "ZB Reload Rank": "Unknown",
+                    "Ballistic": "Unknown",
+                    "Peak Rank": "Unknown",
+                    "Clan Rank": "#8",
+                    "clankRank": "#8"
+                }
+            ],
+            "socials": [
+                {
+                    "name": "Instagram",
+                    "link": "https://www.instagram.com/ccr_bandoe_/"
+                },
+                {
+                    "name": "Tiktok",
+                    "link": "https://www.tiktok.com/@goofy_13_colonie"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/1162273567724015649/5d97013ec450dc1ab1daf0b68171a91f.webp?size=1024"
+        },
+        {
+            "id": 7,
+            "name": "CCR Pretzel",
+            "role": "Member",
+            "description": "No Description Set",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unknown",
+                    "peak": "Unknown",
+                    "BR Rank": "Unknown",
+                    "ZB Rank": "Unknown",
+                    "BR Reload Rank": "Unknown",
+                    "ZB Reload Rank": "Unknown",
+                    "Ballistic": "Unknown",
+                    "Peak Rank": "Unknown",
+                    "Clan Rank": "#9",
+                    "clankRank": "#9"
+                }
+            ],
+            "socials": [
+                 {
+                    "name": "No Socials Linked",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/1242191204528029796/f054655b1f095788653c3ec4b8930226.webp?size=1024"
+        },
+        {
+            "id": 8,
+            "name": "CCR Gh0strx",
+            "role": "Member",
+            "description": "No Description Set",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unknown",
+                    "peak": "Unknown",
+                    "BR Rank": "Unknown",
+                    "ZB Rank": "Unknown",
+                    "BR Reload Rank": "Unknown",
+                    "ZB Reload Rank": "Unknown",
+                    "Ballistic": "Unknown",
+                    "Peak Rank": "Unknown",
+                    "Clan Rank": "#4",
+                    "clankRank": "#4"
+                }
+            ],
+            "socials": [
+                 {
+                    "name": "No Socials Linked",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/906325201527111700/9629eab0694015b199f6aeddcbf36d58.webp?size=1024"
+        },
+        {
+            "id": 9,
+            "name": "CCR Blaze",
+            "role": "Member",
+            "description": "No Description Set",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unknown",
+                    "peak": "Unknown",
+                    "BR Rank": "Unknown",
+                    "ZB Rank": "Unknown",
+                    "BR Reload Rank": "Unknown",
+                    "ZB Reload Rank": "Unknown",
+                    "Ballistic": "Unknown",
+                    "Peak Rank": "Unknown",
+                    "Clan Rank": "#7",
+                    "clankRank": "#7"
+                }
+            ],
+            "socials": [
+                 {
+                    "name": "No Socials Linked",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/542327457425129472/1e8804716ad169fe9f531c03229ce291.webp?size=1024"
+        }
+    ]
+}
