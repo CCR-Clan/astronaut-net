@@ -90,15 +90,15 @@
 		<div class="mt-10 grid gap-8 sm:grid-cols-2">
 			<div>
 				<p class="text-amber-300">Minor</p>
-				<p class="mt-1 text-stone-400">1-5 strikes</p>
+				<p class="mt-1 text-stone-400">1 strike</p>
 			</div>
 			<div>
 				<p class="text-amber-300">Major</p>
-				<p class="mt-1 text-stone-400">1-10 strikes</p>
+				<p class="mt-1 text-stone-400">3+ strikes</p>
 			</div>
 		</div>
 		<p class="mt-10 leading-relaxed text-stone-300">
-			At <span class="text-amber-200">10+ strikes</span>, users are automatically removed from every
+			At <span class="text-amber-200">5+ strikes</span>, users are automatically removed from every
 			server where Astronaut can remove them.
 		</p>
 		<p class="mt-4 text-sm text-stone-500">
@@ -114,16 +114,13 @@
 			Report members when something slips through
 		</h2>
 		<p class="mt-5 text-base leading-relaxed text-stone-400 sm:text-lg">
-			Non-blacklisted users can report members. You'll be asked for the user (must be in the
-			server), a reason, and whether the violation happened in the reporting channel.
+			Non-blacklisted users can report members. You'll be asked for information regarding what you reporting.
 		</p>
 		<p class="mt-8 leading-relaxed text-stone-300">
-			Reports go to authorized CCR Clan members and include reporter and reported user info, the
-			reason, and extras like screenshots. If the violation was in-channel, a transcript is
-			uploaded.
+			Reports go to authorized CCR Clan members and include reported info along with provided info.
 		</p>
 		<p class="mt-8 text-sm text-stone-500">
-			If action is taken, the reporter is not notified and the reported user is never told who
+			If action is taken, the reporter is notified (for user reports only) and the reported user is never told who
 			reported them.
 		</p>
 	</div>
